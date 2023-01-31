@@ -1,0 +1,12 @@
+EXECUTION PART
+
+Address to where the code folder has to place
+C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\A Blockchain based Autonomous Decentralized Online Social Network
+
+next launch tomcat7.exe
+
+next go to chrome and type localhost:2020
+
+manage my apps
+
+click on blockchain
